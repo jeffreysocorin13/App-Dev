@@ -1,7 +1,7 @@
 # App-Dev
 My First Repository
 
-# Jeffrey Favorite 
-**Zesto**
+# Favorite 
+**Zesto** \n
 **Dragon Ball**
 **Gundam**
